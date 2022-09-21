@@ -17,4 +17,5 @@ Open a terminal window, and run the following commands:
 6. `python color_copy_tray.py`
 
 You should now be able to see the application icon in the tray.
+
 ![App icon](https://github.com/youssef-attai/color-picker-tray/blob/master/color_icon.png)
