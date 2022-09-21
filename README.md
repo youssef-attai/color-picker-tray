@@ -1,3 +1,3 @@
 # Color Picker Tray App
 
-A simple color picker tray app. Tested on Windows and Linux.
+A simple color picker tray app for both Windows and Linux.
