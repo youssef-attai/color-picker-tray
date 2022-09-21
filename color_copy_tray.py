@@ -1,8 +1,8 @@
 import os.path
 import sys
 
-from PyQt6.QtGui import QAction, QIcon
-from PyQt6.QtWidgets import QApplication, QSystemTrayIcon, QMenu, QColorDialog
+from PySide6.QtGui import QAction, QIcon
+from PySide6.QtWidgets import QApplication, QSystemTrayIcon, QMenu, QColorDialog
 
 try:
     # Only exists on Windows.
