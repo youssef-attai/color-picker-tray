@@ -10,7 +10,7 @@ A simple color picker tray app for both Windows and Linux.
 ### Steps
 Open a terminal window, and run the following commands:
 1. `git clone https://github.com/youssef-attai/color-picker-tray.git`
-2. `cd todo`
+2. `cd color-picker-tray`
 3. Make sure you have `virtualenv` installed, then run `virtualenv venv`
 4. `source venv/bin/activate`
 5. `pip install -r requirements.txt`
