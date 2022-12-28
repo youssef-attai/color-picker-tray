@@ -1,6 +1,6 @@
-# Color Picker Tray App
+# Color picker tray
 
-A simple color picker tray app for both Windows and Linux.
+A simple color picker tray application for both Windows and Linux.
 
 ## How to run on your machine
 
@@ -18,8 +18,7 @@ Open a terminal window, and run the following commands:
 
 You should now be able to see the application icon in the tray.
 
-![App icon](https://github.com/youssef-attai/color-picker-tray/blob/master/color_icon.png)
-
+![App icon](./color_icon.png)
 
 ## Notes
 - When you pick a color, its HEX value or RGB value (depending on what you chose from the menu) gets copied to the clipboard.
